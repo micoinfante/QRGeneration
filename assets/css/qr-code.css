@@ -1,0 +1,26 @@
+body {
+    background-color: #fafafa;
+}
+.point-field {
+    max-width: 400px;
+    flex-grow: 2;
+
+}
+.btn-generate {
+    margin-left: 8px;
+    color:white;
+}
+.btn-download {
+    margin-left: 8px;
+}
+.form-container {
+    padding: 2%;
+}
+.options-container {
+    padding: 1%;
+}
+.qr-form {
+    display: flex;
+    flex-direction: row;
+    padding: 2px;
+}
