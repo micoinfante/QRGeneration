@@ -1,0 +1,9 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "DZ427MCGG7.or.global.sakura",
+			"paths": ["/redeem/*", "/qr-redeem/*"]
+		}]
+	}
+}
